@@ -9,7 +9,7 @@
 
 
 <p align="center">
-   A CSS front-end framework for faster and easier web development for Echodesk Development Teams.
+   A CSS front-end framework for faster and easier web development for Echodesk DevTeams.
  <p align= "center"> Developed with love from <a href="https://github.com/serverguyken">Serverguyken</a>
 
   <br>
