@@ -34,7 +34,7 @@
 
 ## Quick start
 Get Started: 
-- Install with [npm](https://www.npmjs.com/): ` npm install rectstyles `
+- Install with [npm](https://www.npmjs.com/): ` npm i rectstyles `
 
 
 Read the [Getting started page](https://echodesktechnology/projects/rectstyles.com/getting-started/introduction/) for information on the framework styles, templates, and more.
