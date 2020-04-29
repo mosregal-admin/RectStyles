@@ -1,7 +1,7 @@
 {
   "name": "rectstyles",
   "version": "1.0.0",
-  "description": " A CSS front-end framework for faster and easier web development for Echodesk DevTeams.",
+  "description": "A CSS front-end framework for faster and easier web development for Echodesk Development Teams.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
