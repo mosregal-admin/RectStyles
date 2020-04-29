@@ -1,0 +1,22 @@
+{
+  "name": "rectstyles",
+  "version": "1.0.0",
+  "description": "CSS front-end framework for faster and easier web development for Echodesk DevTeams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverguyken/RectStyles.git"
+  },
+  "keywords": [
+    "rectstyles"
+  ],
+  "author": "Serverguyken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serverguyken/RectStyles/issues"
+  },
+  "homepage": "https://github.com/serverguyken/RectStyles#readme"
+}
