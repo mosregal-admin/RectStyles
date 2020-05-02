@@ -1,6 +1,6 @@
 {
-  "name": "rectstyles",
-  "version": "1.0.0",
+  "name": "echrectstyles",
+  "version": "1.0.2",
   "description": "A CSS front-end framework for faster and easier web development for Echodesk DevTeams.",
   "main": "index.js",
   "scripts": {
